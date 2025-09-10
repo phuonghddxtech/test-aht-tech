@@ -1,0 +1,11 @@
+// Export all components from a central location
+export { default as Button } from './Button.vue'
+export { default as Modal } from './Modal.vue'
+export { default as Toast } from './Toast.vue'
+export { default as NavBar } from './NavBar.vue'
+export { default as ImageCarousel } from './ImageCarousel.vue'
+export { default as ProductInfo } from './ProductInfo.vue'
+export { default as ConfigurationOptions } from './ConfigurationOptions.vue'
+export { default as PriceCalculator } from './PriceCalculator.vue'
+export { default as QuantityInput } from './QuantityInput.vue'
+export { default as AddToCart } from './AddToCart.vue'
